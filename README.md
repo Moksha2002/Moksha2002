@@ -68,10 +68,10 @@ Created automation scripts to clean and consolidate CSV datasets for downstream 
 - Automated athlete performance reporting using Python, saving 10+ hours/month  
 - Improved system reliability and reduced input errors in internal tools  
 
-**Software Engineer — Grayquest Education Finance (2022–2023)**  
+**Software Engineer — Accenture (2022–2023)**  
 - Built backend services and automation pipelines using Spring Boot, Kafka, Airflow, AWS, and CI/CD  
 
-**Software Developer Intern — Skyindya Technologies (2021)**  
+**Software Developer Intern — IBM (2021)**  
 - Built partner onboarding and integration APIs using Node.js and Express.js to improve responsiveness and onboarding speed  
 - Optimized PostgreSQL and Oracle queries for real-time transactions and high-volume usage  
 - Delivered dashboards using React and TypeScript to improve data visibility for internal stakeholders  
